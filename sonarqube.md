@@ -25,3 +25,8 @@ docker container run -d --name sonarqube \
     -v sonarqube_logs:/opt/sonarqube/logs \
     sonarqube:8.9.7-community
 ```
+
+
+### Reference websites
+* https://hub.docker.com/_/sonarqube
+* https://docs.sonarqube.org/latest/setup/install-server/
